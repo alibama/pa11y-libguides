@@ -3,6 +3,7 @@
 A couple of streamlit apps to process SpringShare LibGuides for accessibility, vibecoded with help from Claude.AI
 NB: you must have pa11y installed to use this https://github.com/pa11y/pa11y go here and install pa11y for your OS
 
+<img width="1368" height="543" alt="Screenshot 2025-10-23 at 9 50 59 AM" src="https://github.com/user-attachments/assets/8d6aa560-8070-450c-93d9-21cc82799634" />
 
 ## What This Does
 
