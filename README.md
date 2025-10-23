@@ -1,6 +1,8 @@
 # pa11y-libguides
 
 A couple of streamlit apps to process SpringShare LibGuides for accessibility, vibecoded with help from Claude.AI
+NB: you must have pa11y installed to use this https://github.com/pa11y/pa11y go here and install pa11y for your OS
+
 
 ## What This Does
 
